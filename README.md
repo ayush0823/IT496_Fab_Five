@@ -4,13 +4,13 @@
 
 ## 🧑‍🤝‍🧑 Team Members 🧑‍🤝‍🧑
 
-| | Student ID   || Name       |
-|-|--------------|-|------------|
-| | 202001402    || Aditya Nawal    |
-| | 202001410    || Ayush Patel     |
-| | 202001441    || Priyanshi Parmar |
-| | 202001450    || Parth Thakrar      |
-| | 202103008    || Rishith Vaghela   |
+| Student ID   | Name       |
+|--------------|------------|
+| 202001402    | Aditya Nawal    |
+| 202001410    | Ayush Patel     |
+| 202001441    | Priyanshi Parmar |
+| 202001450    | Parth Thakrar      |
+| 202103008    | Rishith Vaghela   |
 
 ## 🧾 Repo Overview 🧾
 

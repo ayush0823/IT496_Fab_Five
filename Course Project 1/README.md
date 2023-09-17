@@ -19,6 +19,8 @@
 
 The first four problems are based on regression. After discussing the potential problem statements and determining target variables, we divided the problem statements. This allowed us to concentrate on finding a solution to a particular problem and this way we could have a thorough look at different aspects of the dataset. Additionally, we encountered a fifth problem, which falls under the category of binary classification. 
 
+## NOTE: Please consider only `.ipynb` and `README.md` files. Ignore `img` folder and `.png` files. They are used for representation in `README.md` file.
+
 # 🎯 Task 1 : Dataset and Project Overview
 
 This data mining project aims to predict various parameters related to a compressor system. The dataset consists of 15,169,48 data points collected at 1Hz from February to August 2020. The dataset contains the following features:
@@ -52,7 +54,7 @@ This data mining project aims to predict various parameters related to a compres
 
 ## 📈 Statistical Summary of Each Attributes
 
-![summary_image](summary.png)
+![summary_image](img/summary.png)
 
 ## 👀 Observations:
 
@@ -78,7 +80,7 @@ This data mining project aims to predict various parameters related to a compres
 
 ## 📦 BOX PLOTS
 
-![boxplot_image](box_plots.png)
+![boxplot_image](img/box_plots.png)
 
 The box plot offers a visual depiction of the dataset, aiding in data analysis. It enables us to assess the data's central tendency through the median's position within the plot. Additionally, the box's length provides insights into data spread, with longer boxes signifying greater variability and shorter ones indicating less. Moreover, it facilitates the identification of outliers, which can be subsequently removed from the dataset to enhance the efficiency of model training.
 
@@ -86,17 +88,17 @@ The box plot also helps us gauge the skewness of the data distribution. When the
 
 ## 🥟 Pie Charts
 
-![piechart_image](pie_charts.png)
+![piechart_image](img/pie_charts.png)
 
 The pie charts showing the number of ones and zeros in the dataset's binary features are like helpful snapshots. They let us see if there are a lot more of one type than the other. This is important because it helps us get our data ready for making predictions. It's like making sure we have a fair and balanced set of information to teach our model. These charts also help us spot any unusual patterns, which could be a sign of something important that needs looking into.
 
 ## 🕒 Time Series Plots
 
-![timeseries_image](time_series.png)
+![timeseries_image](img/time_series.png)
 
 ## 🧐 EDA and Other Insights
 
-Mentioned in respective .ipynb files.
+Mentioned in respective `.ipynb` files.
 
 # 🎯 Task 2: Regression Problems
 
@@ -137,4 +139,4 @@ Overall, predicting oil temperature is the most interesting problem because it h
 
 # 🎯 Task 3
 
-Results of End-to-End ML pipeline are mentioned in respective .ipynb files.
+Results of End-to-End ML pipeline are mentioned in respective `.ipynb` files.

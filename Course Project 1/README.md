@@ -13,7 +13,7 @@
 | 202001410    | Ayush Patel     | Prediction of Motor current      |
 | 202001441    | Priyanshi Parmar | Prediction of H1 pressure        |
 | 202001450    | Parth Thakrar      | Prediction of TP2 pressure       |
-| 202103008   | Rishith Vaghela   | Prediction of Tower signal       |
+| 202103008   | Rishit Vaghela   | Prediction of Tower signal       |
 
 <hr>
 
@@ -125,6 +125,12 @@ Mentioned in respective `.ipynb` files.
 - **Pipeline Monitoring:** In applications involving pipelines (e.g., in the oil and gas industry), predicting TP2 pressure is vital for maintaining the integrity of the pipeline system. Sudden pressure drops or spikes can be early indicators of leaks or other issues.
 
 - **Resource Allocation:** Predictive models can optimize the allocation of resources such as pumping stations. By forecasting TP2 pressure, operators can schedule pump operations efficiently, minimizing energy consumption.
+
+### 5. Tower Prediction 🌀
+
+- **Maintainence:** The towers remove moisture from compressed air to prevent corrosion and ensure the proper operation of pneumatic components, while also regulating air pressure to meet the distinct requirements of various devices and components across the train.
+
+- **Air Regulation:** Towers can serve as reservoirs for storing compressed air. These reservoirs help maintain a consistent and readily available air supply for various pneumatic functions onboard the metro train.
 
 ### 🧩 **Most Interesting Problem**
 

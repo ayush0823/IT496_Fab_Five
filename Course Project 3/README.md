@@ -198,7 +198,7 @@ In predicting the outcome of ODI matches, the following key features were consid
 
 ### If Finals happen between India and South Africa, the predicted winner is India.
 
-![Winner of WC23](image-3.png)
+![Winner of WC23](img/image-3.png)
 
 # 🎯 Approach for Predicting Playing 11:
 

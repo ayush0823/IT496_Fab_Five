@@ -10,7 +10,7 @@
 |--------------|------------|-----------------------------------|
 | 202001402    | Aditya Nawal    | Player Dismissal Prediction    |
 | 202001410    | Ayush Patel     | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction      |
-| 202001441    | Priyanshi Parmar | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction |
+| 202001441    | Priyanshi Parmar | Playing 11, Finalist Team and World Cup Winner Prediction |
 | 202001450    | Parth Thakrar      | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction |
 | 202103008   | Rishit Vaghela   | Toss Desicion Prediction |
 

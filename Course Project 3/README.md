@@ -217,9 +217,9 @@ In predicting the playing 11 for a particular team in the ODI Cricket World Cup 
 4. average: The average bowling strike rate calculated from all ODI matches since 2002, providing insights into a bowler's historical wicket-taking capability.
 
 ### Prediction of the team of 11 for India:
-![Playing 11 of India](image-1.png)
+![Playing 11 of India](img/image-1.png)
 ### Prediction of the team of 11 for South Africa:
-![Playing 11 of South Africa](image-2.png)
+![Playing 11 of South Africa](img/image-2.png)
 
 # 🎯 Approach for Predicting Player Dismissal:
 

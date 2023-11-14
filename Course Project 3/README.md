@@ -11,7 +11,7 @@
 | 202001402    | Aditya Nawal    | Player Dismissal Prediction    |
 | 202001410    | Ayush Patel     | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction      |
 | 202001441    | Priyanshi Parmar | Playing 11, Finalist Team and World Cup Winner Prediction |
-| 202001450    | Parth Thakrar      | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction |
+| 202001450    | Parth Thakrar      | Rohit Sharma's Run, Finalist Team and World Cup Winner Prediction and API deployment for Winner prediction |
 | 202103008   | Rishit Vaghela   | Toss Desicion Prediction |
 
 <hr>
@@ -194,6 +194,12 @@ In predicting the outcome of ODI matches, the following key features were consid
 1. Toss Winner: The team winning the toss has the opportunity to make strategic decisions based on prevailing conditions, such as choosing to bat or bowl first.
 2. Toss Decision: Whether the toss winner chooses to bat or bowl can significantly impact the match outcome, considering the pitch conditions and team strengths.
 
+### The Semi Finalists predicted are India and South Africa.
+
+### If Finals happen between India and South Africa, the predicted winner is India.
+
+![Winner of WC23](image-3.png)
+
 # 🎯 Approach for Predicting Playing 11:
 
 In predicting the playing 11 for a particular team in the ODI Cricket World Cup 2023, the performance analysis is based on a dataset that includes all ODI matches since 2002. The selection process focuses on 15 players from the squad, evaluating batsmen and bowlers based on specific performance metrics.
@@ -209,6 +215,11 @@ In predicting the playing 11 for a particular team in the ODI Cricket World Cup 
 2. bowler: Individual player identities.
 3. strike rate: The strike rate of each bowler, indicating their effectiveness in taking wickets.
 4. average: The average bowling strike rate calculated from all ODI matches since 2002, providing insights into a bowler's historical wicket-taking capability.
+
+### Prediction of the team of 11 for India:
+![Playing 11 of India](image-1.png)
+### Prediction of the team of 11 for South Africa:
+![Playing 11 of South Africa](image-2.png)
 
 # 🎯 Approach for Predicting Player Dismissal:
 
